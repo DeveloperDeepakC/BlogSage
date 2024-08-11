@@ -14,7 +14,7 @@ BlogSage is a contemporary blogging platform, modeled after sites like Medium, c
 - **Cloudflare Workers**: A serverless execution environment that allows you to run JavaScript code at the edge of the Cloudflare network, providing scalable and efficient backend logic. [Hono](https://hono.dev/top)
 - **TypeScript**: Leveraged for backend development as well, ensuring consistent type safety and code integrity across the entire application.
 - **Prisma**: A modern ORM (Object-Relational Mapping) tool that simplifies database access and manipulation, offering type-safe database queries and schema migrations. [Prisma](https://www.prisma.io/)
-- **PostgreSQL**: A powerful open-source relational database management system, chosen for its reliability, scalability, and extensive feature set. [Aiven](https://aiven.io/)
+- **PostgreSQL**: A powerful open-source relational database management system, chosen for its reliability, scalability, and extensive feature set.
 
 
 ## Getting Started
